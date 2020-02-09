@@ -1,8 +1,20 @@
 # android_device_xiaomi_nitrogen-10
 
-extract stock_kernel.tar.gz
+Working :
 
-to compile
+ADB
+
+Decryption userdata
+
+Screen brightness settings
+
+Correct screenshot color
+
+MTP
+
+..to compile
+
+extract stock_kernel.tar.gz
 
 . build/envsetup.sh
 
