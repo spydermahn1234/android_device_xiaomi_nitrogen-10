@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := tulip
+PRODUCT_RELEASE_NAME := nitrogen
 
 $(call inherit-product, build/target/product/embedded.mk)
 
